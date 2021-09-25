@@ -81,34 +81,6 @@ generateBtn.addEventListener ("click", () => {
 
 
 
-// Assignment Code
-
-// Write password to the #password input
-
-// var result = document.querySelector
-// Add event listener to generate button
-// generateBtn.addEventListener("click", writePassword)
-
-// function generatePassword() {
-//   characterSet = [numberOfCharacters + randomSpecial + randomlowerCase + randomUpperCase]
-//   var result = "";
-//   for ( var i = 0; i < numberOfCharacters; i++ ) {
-// }
-//   if (specialCharsAllowed === true){
-//   randomSpecial = Math.floor(Math.random() * specialCharacters.length)
-//   }
-// if (numbersAllowed===true){
-// }
-//   lowercaseAllowed = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
-//   randomlowerCase = Math.floor(Math.random() * lowerCase.length);
-
-//   uppercaseAllowed = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
-//   randomUpperCase = Math.floor(Math.random() * uppercaseAllowed.length);  
-  
-//   { password = characterSet
-//  }
-//  return result;
-// }
 
 
 
